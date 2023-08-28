@@ -2,7 +2,7 @@
 
 **monkGPT** is a unique web-based chatbot designed to provide heartfelt quotes and philosophical responses like a wise Buddhist monk. Powered by OpenAI's GPT-3.5-Turbo model, this chatbot offers insights and thoughtful reflections on various topics. It also comes with a calming and serene user interface to enhance the monk-like experience.
 
-![monkGPT Screenshot](./monkGPT/screenshot.png)
+![monkGPT Screenshot](./monkGPT/demo.png)
 
 ## Features
 
@@ -19,7 +19,7 @@
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/monkgpt.git
+   git clone https://github.com/notnotdurgesh/monkGPT.git
    ```
 
 2. Navigate to the project directory:
