@@ -24,7 +24,7 @@
 
 2. Navigate to the project directory:
    ```sh
-   cd monkgpt
+   cd monkGPT
    ```
 
 3. Install the required Python packages:
